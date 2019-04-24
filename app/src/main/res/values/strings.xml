@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Peto</string>
+    <string name="password_hint">Your Password</string>
+    <string name="email_hint">Your email</string>
+    <string name="button_login">Login to Account</string>
+    <string name="button_new_account">NEED a new Account?</string>
+    <string name="action_search">Search</string>
+    <string name="action_settings">Account Settings</string>
+    <string name="action_logout">Logout</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Your Password</string>
+    <string name="register">Create a new Account</string>
+    <string name="have_an_account">Already have an Account?</string>
+    <string name="save_account_settings">Save account settings</string>
+    <string name="name_hint">Your name</string>
+    <string name="share_new_post">Share a New Post</string>
+    <string name="error_confirm_msg">Your password and confirmation password do not match.</string>
+    <string name="text_description">Add Description</string>
+    <string name="bottom_home">Home</string>
+    <string name="bottom_notification">Notification</string>
+    <string name="bottom_account">Account</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="delete">Delete</string>
+</resources>
